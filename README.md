@@ -34,9 +34,9 @@ With hands-on experience in **Python**, **SQL**, **Power BI**, and **Machine Lea
 
 📈 Featured Projects:
 
-- 📂 [Uber Trips Data Analysis](https://github.com/poojaanvi/Churn_ETL)
-- 📂 [Power BI Sales Dashboard](https://github.com/poojaanvi/recommendationsystem)
-- 📂 [Python Data Cleaning and EDA](https://github.com/poojaanvi/bigmartdataanalysi)
+- 📂 [Customer_churn_ETL](https://github.com/poojaanvi/Churn_ETL)
+- 📂 [Recommendation_system](https://github.com/poojaanvi/recommendationsystem)
+- 📂 [BigmartAnalysis](https://github.com/poojaanvi/bigmartdataanalysi)
   
 
 *(👉 I’m continuously adding more projects... Stay tuned!)*
